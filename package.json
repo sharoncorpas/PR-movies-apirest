@@ -1,0 +1,19 @@
+{
+  "name": "pr-movies-apirest",
+  "version": "1.0.0",
+  "description": "Proyecto consumo de API REST y JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharoncorpas/PR-movies-apirest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharoncorpas/PR-movies-apirest/issues"
+  },
+  "homepage": "https://github.com/sharoncorpas/PR-movies-apirest#readme"
+}
